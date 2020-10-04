@@ -61,7 +61,6 @@ namespace Entidades
                 switch (tipo)
                 {
                     case ETipo.SUV:
-                        Console.WriteLine("XD");
                         sb.AppendLine(v.Mostrar());
                         break;
                     case ETipo.Ciclomotor:
