@@ -89,6 +89,7 @@ namespace Entidades
         public static Taller operator +(Taller taller, Vehiculo vehiculo)
         {
             if (taller.espacioDisponible > taller.vehiculos.Count && !taller.vehiculos.Contains(vehiculo)) { 
+                //Bueno aca tambien se puede hacer un foreach y hacer un if con vtaller == vehiculo
                 taller.vehiculos.Add(vehiculo);
             }
             return taller;
