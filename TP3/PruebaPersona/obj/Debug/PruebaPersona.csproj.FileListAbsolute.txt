@@ -1,0 +1,23 @@
+C:\Users\feder\source\repos\Entidades\PruebaPersona\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\feder\source\repos\Entidades\PruebaPersona\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\feder\source\repos\Entidades\PruebaPersona\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\feder\source\repos\Entidades\PruebaPersona\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\feder\source\repos\Entidades\PruebaPersona\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\feder\source\repos\Entidades\PruebaPersona\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\feder\source\repos\Entidades\PruebaPersona\bin\Debug\PruebaPersona.dll
+C:\Users\feder\source\repos\Entidades\PruebaPersona\bin\Debug\PruebaPersona.pdb
+C:\Users\feder\source\repos\Entidades\PruebaPersona\bin\Debug\Clases Abstractas.dll
+C:\Users\feder\source\repos\Entidades\PruebaPersona\bin\Debug\Clases Instanciables.dll
+C:\Users\feder\source\repos\Entidades\PruebaPersona\bin\Debug\Excepciones.dll
+C:\Users\feder\source\repos\Entidades\PruebaPersona\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\feder\source\repos\Entidades\PruebaPersona\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\feder\source\repos\Entidades\PruebaPersona\bin\Debug\Clases Abstractas.pdb
+C:\Users\feder\source\repos\Entidades\PruebaPersona\bin\Debug\Clases Instanciables.pdb
+C:\Users\feder\source\repos\Entidades\PruebaPersona\bin\Debug\Excepciones.pdb
+C:\Users\feder\source\repos\Entidades\PruebaPersona\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\feder\source\repos\Entidades\PruebaPersona\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\feder\source\repos\Entidades\PruebaPersona\obj\Debug\PruebaPersona.csprojAssemblyReference.cache
+C:\Users\feder\source\repos\Entidades\PruebaPersona\obj\Debug\PruebaPersona.csproj.CoreCompileInputs.cache
+C:\Users\feder\source\repos\Entidades\PruebaPersona\obj\Debug\PruebaPersona.csproj.CopyComplete
+C:\Users\feder\source\repos\Entidades\PruebaPersona\obj\Debug\PruebaPersona.dll
+C:\Users\feder\source\repos\Entidades\PruebaPersona\obj\Debug\PruebaPersona.pdb

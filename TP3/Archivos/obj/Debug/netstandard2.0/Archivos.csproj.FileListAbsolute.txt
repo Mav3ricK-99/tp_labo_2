@@ -1,0 +1,9 @@
+C:\Users\feder\source\repos\Entidades\Archivos\bin\Debug\netstandard2.0\Archivos.deps.json
+C:\Users\feder\source\repos\Entidades\Archivos\bin\Debug\netstandard2.0\Archivos.dll
+C:\Users\feder\source\repos\Entidades\Archivos\bin\Debug\netstandard2.0\Archivos.pdb
+C:\Users\feder\source\repos\Entidades\Archivos\obj\Debug\netstandard2.0\Archivos.csprojAssemblyReference.cache
+C:\Users\feder\source\repos\Entidades\Archivos\obj\Debug\netstandard2.0\Archivos.AssemblyInfoInputs.cache
+C:\Users\feder\source\repos\Entidades\Archivos\obj\Debug\netstandard2.0\Archivos.AssemblyInfo.cs
+C:\Users\feder\source\repos\Entidades\Archivos\obj\Debug\netstandard2.0\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\feder\source\repos\Entidades\Archivos\obj\Debug\netstandard2.0\Archivos.dll
+C:\Users\feder\source\repos\Entidades\Archivos\obj\Debug\netstandard2.0\Archivos.pdb
