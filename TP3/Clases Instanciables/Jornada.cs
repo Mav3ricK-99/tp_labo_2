@@ -18,9 +18,9 @@ namespace EntidadesInstanciables
         private List<Alumno> alumnos;
         private EClases clase;
 
-        public Profesor Instructor { get => instructor; set => instructor = value; }
         public List<Alumno> Alumnos { get => alumnos; set => alumnos = value; }
         public EClases Clase { get => clase; set => clase = value; }
+        public Profesor Instructor { get => instructor; set => instructor = value; }
 
         private Jornada()
         {
@@ -91,10 +91,7 @@ namespace EntidadesInstanciables
         
             return j;
         }
-        public override int GetHashCode()
-        {
-            return this.GetHashCode();
-        }
+
         public override bool Equals(object o)
         {
             return base.Equals(o);

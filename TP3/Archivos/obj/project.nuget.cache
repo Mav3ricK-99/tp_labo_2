@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "87+qGd8aoGvL7ClNSW/UAuAFzMwc1zD1mVBE+pXtlSjy+lS7Gczi2HyqXhti14LnH3MRL8zjlTEeTPWbOp2j0w==",
+  "dgSpecHash": "Rl7IMmIdTgKeZMUVqq0TSo8ZU3z+slT2W8M8lQzc7bp5wk32gcQUVOdUmJZRyabhelmkH9d2wCecRIqrjJDSsg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\feder\\source\\repos\\TP3\\Archivos\\Archivos.csproj",
+  "projectFilePath": "C:\\Users\\feder\\Desktop\\Programacion\\utn\\2ndo cuatri\\TEPES\\tp_labo_2\\TP3\\Archivos\\Archivos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\feder\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\feder\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

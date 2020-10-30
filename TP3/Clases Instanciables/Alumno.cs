@@ -18,7 +18,10 @@ namespace EntidadesInstanciables
         private EClases claseQueToma;
         private EEstadoCuenta estadoCuenta;
 
-       
+        public Alumno()
+        {
+
+        }
         public Alumno(int id, string nombre, string apellido, string dni, ENacionalidad nacionalidad, EClases claseQueToma) : base(id, nombre, apellido, dni, nacionalidad)
         {
             this.claseQueToma = claseQueToma;
@@ -27,7 +30,7 @@ namespace EntidadesInstanciables
         {
             this.estadoCuenta = estadoCuenta;
         }
-
+        
         protected override string ParticiparEnClase()
         {
             StringBuilder strClases = new StringBuilder();
@@ -65,10 +68,6 @@ namespace EntidadesInstanciables
             strAlumno.AppendLine(this.ParticiparEnClase());
 
             return strAlumno.ToString();
-        }
-        public override int GetHashCode()
-        {
-            return this.GetHashCode();
         }
          public override bool Equals(object o)
         {

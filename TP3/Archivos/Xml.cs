@@ -36,7 +36,7 @@ namespace Archivos
                 {
                     XmlSerializer deserializador = new XmlSerializer(typeof(T));
                     datos = (T)deserializador.Deserialize(lector);
-
+                   
                 }
             }
             catch (Exception e) { Console.WriteLine(e.Message); }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sSGdcs7rS5KZKXTn0szo6KvGllvs6xnuYvpddMgZQY/8ya+jKlHtmZvsUhaaH0SAuaxKkYJbTUoi4uIqc3OD3Q==",
+  "dgSpecHash": "hqPt7o5qhhKkZqXls1GqO15MOy8rYpoKM8ZY6qJDuorSqBWfV1PWA4CKqFuaFx1cAlodW4JPgKM+OzBXf/zY5A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\feder\\source\\repos\\TP3\\Clases Abstractas\\Clases Abstractas.csproj",
+  "projectFilePath": "C:\\Users\\feder\\Desktop\\Programacion\\utn\\2ndo cuatri\\TEPES\\tp_labo_2\\TP3\\Clases Abstractas\\Clases Abstractas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\feder\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\feder\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

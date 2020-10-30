@@ -107,6 +107,9 @@ namespace ConsolaTP3
             {
                 Universidad.Guardar(uni);
                 Console.WriteLine("Archivo de Universidad guardado.");
+                //Console.WriteLine(Universidad.Leer().ToString());
+                /*Aca hay un probema xq no se van a leer lo datos que nunca fueron guardados
+                En el XML (Porejemplo clases del dia del Profesor o bien el N de legajo)*/
             }
             catch (ArchivosException e)
             {

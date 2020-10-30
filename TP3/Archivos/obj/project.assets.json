@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\feder\\source\\repos\\TP3\\Archivos\\Archivos.csproj",
+      "projectUniqueName": "C:\\Users\\feder\\Desktop\\Programacion\\utn\\2ndo cuatri\\TEPES\\tp_labo_2\\TP3\\Archivos\\Archivos.csproj",
       "projectName": "Archivos",
-      "projectPath": "C:\\Users\\feder\\source\\repos\\TP3\\Archivos\\Archivos.csproj",
+      "projectPath": "C:\\Users\\feder\\Desktop\\Programacion\\utn\\2ndo cuatri\\TEPES\\tp_labo_2\\TP3\\Archivos\\Archivos.csproj",
       "packagesPath": "C:\\Users\\feder\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\feder\\source\\repos\\TP3\\Archivos\\obj\\",
+      "outputPath": "C:\\Users\\feder\\Desktop\\Programacion\\utn\\2ndo cuatri\\TEPES\\tp_labo_2\\TP3\\Archivos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\feder\\AppData\\Roaming\\NuGet\\NuGet.Config",

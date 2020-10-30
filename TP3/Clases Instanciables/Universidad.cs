@@ -20,7 +20,7 @@ namespace EntidadesInstanciables
         private List<Alumno> listaInscriptos;
         private List<Profesor> listaProfesores;
         private List<Jornada> jornadas;
-
+        
         public List<Alumno> ListaInscriptos { get => this.listaInscriptos; set => listaInscriptos = value; }
         public List<Profesor> ListaProfesores { get => listaProfesores; set => listaProfesores = value; }
         public List<Jornada> Jornadas { get => jornadas; set => jornadas = value; }
@@ -41,13 +41,27 @@ namespace EntidadesInstanciables
             StringBuilder rutaStr = new StringBuilder(AppDomain.CurrentDomain.BaseDirectory);
             string nombreArchivo = "Universidad.xml";
             rutaStr.Append(nombreArchivo);
-
-            if (archivoXml.Guardar(rutaStr.ToString(), uni))
+            
+            if (archivoXml.Guardar(rutaStr.ToString(),uni))
             {
                 rtrn = true;
             }
+            
             return rtrn;
 
+        }
+        public static Universidad Leer()
+        {
+            Universidad uni = new Universidad();
+            Xml<Universidad> archivoXml = new Xml<Universidad>();
+
+            StringBuilder rutaStr = new StringBuilder(AppDomain.CurrentDomain.BaseDirectory);
+            string nombreArchivo = "Universidad.xml";
+            rutaStr.Append(nombreArchivo);
+
+            archivoXml.Leer(rutaStr.ToString(), out uni);
+
+            return uni;
         }
 
         public static bool operator !=(Universidad g, Alumno a)
@@ -153,10 +167,6 @@ namespace EntidadesInstanciables
 
             return g;
         }
-        public override int GetHashCode()
-        {
-            return this.GetHashCode();
-        }
         public override bool Equals(object o)
         {
             return base.Equals(o);
@@ -165,9 +175,8 @@ namespace EntidadesInstanciables
         {
             StringBuilder datosStr = new StringBuilder();
             foreach (Jornada jor in uni.Jornadas)
-            {
                 datosStr.Append(jor.ToString());
-            }
+            
             return datosStr.ToString();
         }
         public override string ToString()

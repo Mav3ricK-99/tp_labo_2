@@ -31,10 +31,6 @@ namespace EntidadesAbstractas
         {
             return obj is Universitario universitario && (legajoUni == universitario.legajoUni || this.DniPersona == universitario.DniPersona);
         }
-        public override int GetHashCode()
-        {
-            return this.GetHashCode();
-        }
 
         public static bool operator !=(Universitario pg1, Universitario pg2) {
 

@@ -64,10 +64,6 @@ namespace EntidadesInstanciables
             strProfesor.AppendLine(this.ParticiparEnClase());
             return strProfesor.ToString();
         }
-        public override int GetHashCode()
-        {
-            return this.GetHashCode();
-        }
         public override bool Equals(object o)
         {
             return base.Equals(o);

@@ -12,7 +12,7 @@ namespace Archivos
             try
             {
 
-                using (StreamWriter escritorArchivo = new StreamWriter(archivo, false))
+                using (StreamWriter escritorArchivo = new StreamWriter(archivo, true))
                 {
                     escritorArchivo.WriteLine(datos);
                     escritorArchivo.Close();
@@ -35,6 +35,7 @@ namespace Archivos
                     {
                         datos = lectorArchivo.ReadToEnd();
                         lectorArchivo.Close();
+                        rtrn = true;
                     }
                 }
             }
