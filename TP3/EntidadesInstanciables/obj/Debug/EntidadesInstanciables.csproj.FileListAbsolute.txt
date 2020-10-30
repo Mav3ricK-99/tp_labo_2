@@ -1,2 +1,0 @@
-C:\Users\feder\source\repos\Entidades\Clases Instanciables\obj\Debug\EntidadesInstanciables.csprojAssemblyReference.cache
-C:\Users\feder\source\repos\Entidades\Clases Instanciables\obj\Debug\EntidadesInstanciables.csproj.CoreCompileInputs.cache
