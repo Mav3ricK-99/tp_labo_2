@@ -8,15 +8,14 @@ using Excepciones;
 
 namespace EntidadesAbstractas
 {
-    public enum ENacionalidad
-    {
-        Argentino,
-        Extranjero
-    }
-
     public abstract class Persona
     {
-        
+        public enum ENacionalidad
+        {
+            Argentino,
+            Extranjero
+        }
+
         protected string nombrePersona, apellidoPersona;
         protected ENacionalidad nacionalidadPersona;
         protected int dniPersona;

@@ -8,6 +8,7 @@ using EntidadesAbstractas;
 using Archivos;
 using System.Security.Cryptography.X509Certificates;
 using System.Xml.Serialization;
+using EClases = EntidadesInstanciables.Universidad.EClases;
 
 namespace EntidadesInstanciables
 {

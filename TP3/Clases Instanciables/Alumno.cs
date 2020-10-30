@@ -4,17 +4,20 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using EntidadesAbstractas;
+using EClases = EntidadesInstanciables.Universidad.EClases;
 
 namespace EntidadesInstanciables
 {
-    public enum EEstadoCuenta
-    {
-        AlDia,
-        Deudor,
-        Becado
-    }
+
     public sealed class Alumno : Universitario
-    {   
+    {
+        public enum EEstadoCuenta
+        {
+            AlDia,
+            Deudor,
+            Becado
+        }
+
         private EClases claseQueToma;
         private EEstadoCuenta estadoCuenta;
 

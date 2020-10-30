@@ -7,16 +7,16 @@ using System.Text;
 
 namespace EntidadesInstanciables
 {
-    public enum EClases
-    {
-        Programacion,
-        Laboratorio,
-        Legislacion,
-        SPD
-    }
     [Serializable]
     public class Universidad
     {
+        public enum EClases
+        {
+            Programacion,
+            Laboratorio,
+            Legislacion,
+            SPD
+        }
         private List<Alumno> listaInscriptos;
         private List<Profesor> listaProfesores;
         private List<Jornada> jornadas;
