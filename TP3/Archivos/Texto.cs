@@ -1,9 +1,10 @@
 ﻿using System;
+using System.Globalization;
 using System.IO;
 
 namespace Archivos
 {
-    public class Texto
+    public class Texto : IArchivo<string>
     {
 
         public bool Guardar(string archivo, string datos)
