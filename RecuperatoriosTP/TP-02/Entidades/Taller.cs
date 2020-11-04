@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Runtime.CompilerServices;
+using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -52,6 +53,7 @@ namespace Entidades
         /// <returns></returns>
         public static string Listar(Taller taller, ETipo tipo)
         {
+            string tipoVehiculo = string.Empty;
             StringBuilder sb = new StringBuilder();
 
             sb.AppendFormat("Tenemos {0} lugares ocupados de un total de {1} disponibles", taller.vehiculos.Count, taller.espacioDisponible);
@@ -61,16 +63,23 @@ namespace Entidades
                 switch (tipo)
                 {
                     case ETipo.SUV:
-                        sb.AppendLine(v.Mostrar());
+                        tipoVehiculo = v.GetType().ToString().Split('.').Last().ToUpper();
+                        if (tipoVehiculo == ETipo.SUV.ToString())
+                            sb.AppendLine(v.Mostrar());
                         break;
                     case ETipo.Ciclomotor:
-                        sb.AppendLine(v.Mostrar());
+                        tipoVehiculo = v.GetType().ToString().Split('.').Last();
+                        if (tipoVehiculo == ETipo.Ciclomotor.ToString())
+                            sb.AppendLine(v.Mostrar());
                         break;
                     case ETipo.Sedan:
-                        sb.AppendLine(v.Mostrar());
+                        tipoVehiculo = v.GetType().ToString().Split('.').Last();
+                        if (tipoVehiculo == ETipo.Sedan.ToString())
+                            sb.AppendLine(v.Mostrar());
                         break;
                     default:
                         sb.AppendLine(v.Mostrar());
+                        tipoVehiculo = string.Empty;
                         break;
                 }
             }

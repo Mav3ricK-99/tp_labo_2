@@ -75,7 +75,7 @@ namespace Entidades
         /// <returns></returns>
         public static bool operator !=(Vehiculo v1, Vehiculo v2)
         {
-            return(v1.chasis == v2.chasis && v1.GetType().Equals(v2.GetType()));
+            return !(v1 == v2);
         }
         public override bool Equals(object obj) {
             if (obj == null)
