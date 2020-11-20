@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\feder\\Desktop\\Programacion\\utn\\2ndo cuatri\\TEPES\\tp_labo_2\\TP3\\Clases Abstractas\\Clases Abstractas.csproj": {}
+    "C:\\Users\\feder\\Desktop\\Programacion\\utn\\2ndo cuatri\\TEPES\\tp_labo_2\\RecuperatoriosTP\\TP3\\Clases Abstractas\\Clases Abstractas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\feder\\Desktop\\Programacion\\utn\\2ndo cuatri\\TEPES\\tp_labo_2\\TP3\\Clases Abstractas\\Clases Abstractas.csproj": {
+    "C:\\Users\\feder\\Desktop\\Programacion\\utn\\2ndo cuatri\\TEPES\\tp_labo_2\\RecuperatoriosTP\\TP3\\Clases Abstractas\\Clases Abstractas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\feder\\Desktop\\Programacion\\utn\\2ndo cuatri\\TEPES\\tp_labo_2\\TP3\\Clases Abstractas\\Clases Abstractas.csproj",
+        "projectUniqueName": "C:\\Users\\feder\\Desktop\\Programacion\\utn\\2ndo cuatri\\TEPES\\tp_labo_2\\RecuperatoriosTP\\TP3\\Clases Abstractas\\Clases Abstractas.csproj",
         "projectName": "Clases Abstractas",
-        "projectPath": "C:\\Users\\feder\\Desktop\\Programacion\\utn\\2ndo cuatri\\TEPES\\tp_labo_2\\TP3\\Clases Abstractas\\Clases Abstractas.csproj",
+        "projectPath": "C:\\Users\\feder\\Desktop\\Programacion\\utn\\2ndo cuatri\\TEPES\\tp_labo_2\\RecuperatoriosTP\\TP3\\Clases Abstractas\\Clases Abstractas.csproj",
         "packagesPath": "C:\\Users\\feder\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\feder\\Desktop\\Programacion\\utn\\2ndo cuatri\\TEPES\\tp_labo_2\\TP3\\Clases Abstractas\\obj\\",
+        "outputPath": "C:\\Users\\feder\\Desktop\\Programacion\\utn\\2ndo cuatri\\TEPES\\tp_labo_2\\RecuperatoriosTP\\TP3\\Clases Abstractas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\feder\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,8 +27,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\feder\\Desktop\\Programacion\\utn\\2ndo cuatri\\TEPES\\tp_labo_2\\TP3\\Excepciones\\Excepciones.csproj": {
-                "projectPath": "C:\\Users\\feder\\Desktop\\Programacion\\utn\\2ndo cuatri\\TEPES\\tp_labo_2\\TP3\\Excepciones\\Excepciones.csproj"
+              "C:\\Users\\feder\\Desktop\\Programacion\\utn\\2ndo cuatri\\TEPES\\tp_labo_2\\RecuperatoriosTP\\TP3\\Excepciones\\Excepciones.csproj": {
+                "projectPath": "C:\\Users\\feder\\Desktop\\Programacion\\utn\\2ndo cuatri\\TEPES\\tp_labo_2\\RecuperatoriosTP\\TP3\\Excepciones\\Excepciones.csproj"
               }
             }
           }
@@ -63,11 +63,11 @@
         }
       }
     },
-    "C:\\Users\\feder\\Desktop\\Programacion\\utn\\2ndo cuatri\\TEPES\\tp_labo_2\\TP3\\Excepciones\\Excepciones.csproj": {
+    "C:\\Users\\feder\\Desktop\\Programacion\\utn\\2ndo cuatri\\TEPES\\tp_labo_2\\RecuperatoriosTP\\TP3\\Excepciones\\Excepciones.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\feder\\Desktop\\Programacion\\utn\\2ndo cuatri\\TEPES\\tp_labo_2\\TP3\\Excepciones\\Excepciones.csproj",
+        "projectUniqueName": "C:\\Users\\feder\\Desktop\\Programacion\\utn\\2ndo cuatri\\TEPES\\tp_labo_2\\RecuperatoriosTP\\TP3\\Excepciones\\Excepciones.csproj",
         "projectName": "Excepciones",
-        "projectPath": "C:\\Users\\feder\\Desktop\\Programacion\\utn\\2ndo cuatri\\TEPES\\tp_labo_2\\TP3\\Excepciones\\Excepciones.csproj"
+        "projectPath": "C:\\Users\\feder\\Desktop\\Programacion\\utn\\2ndo cuatri\\TEPES\\tp_labo_2\\RecuperatoriosTP\\TP3\\Excepciones\\Excepciones.csproj"
       },
       "frameworks": {
         "net472": {}

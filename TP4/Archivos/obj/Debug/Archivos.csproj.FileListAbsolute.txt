@@ -1,0 +1,6 @@
+C:\Users\feder\source\repos\TestConsola\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\feder\source\repos\TestConsola\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\feder\source\repos\TestConsola\Archivos\bin\Debug\Archivos.dll
+C:\Users\feder\source\repos\TestConsola\Archivos\bin\Debug\Archivos.pdb
+C:\Users\feder\source\repos\TestConsola\Archivos\obj\Debug\Archivos.dll
+C:\Users\feder\source\repos\TestConsola\Archivos\obj\Debug\Archivos.pdb

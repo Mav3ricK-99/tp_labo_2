@@ -1,0 +1,14 @@
+C:\Users\feder\source\repos\TestConsola\TestConsola\bin\Debug\TestConsola.exe.config
+C:\Users\feder\source\repos\TestConsola\TestConsola\bin\Debug\TestConsola.exe
+C:\Users\feder\source\repos\TestConsola\TestConsola\bin\Debug\TestConsola.pdb
+C:\Users\feder\source\repos\TestConsola\TestConsola\obj\Debug\TestConsola.csprojAssemblyReference.cache
+C:\Users\feder\source\repos\TestConsola\TestConsola\obj\Debug\TestConsola.csproj.CoreCompileInputs.cache
+C:\Users\feder\source\repos\TestConsola\TestConsola\obj\Debug\TestConsola.exe
+C:\Users\feder\source\repos\TestConsola\TestConsola\obj\Debug\TestConsola.pdb
+C:\Users\feder\source\repos\TestConsola\TestConsola\bin\Debug\Entidades.dll
+C:\Users\feder\source\repos\TestConsola\TestConsola\bin\Debug\Excepciones.dll
+C:\Users\feder\source\repos\TestConsola\TestConsola\bin\Debug\Archivos.dll
+C:\Users\feder\source\repos\TestConsola\TestConsola\bin\Debug\Entidades.pdb
+C:\Users\feder\source\repos\TestConsola\TestConsola\bin\Debug\Excepciones.pdb
+C:\Users\feder\source\repos\TestConsola\TestConsola\bin\Debug\Archivos.pdb
+C:\Users\feder\source\repos\TestConsola\TestConsola\obj\Debug\TestConsola.csproj.CopyComplete
