@@ -19,7 +19,7 @@ namespace Entidades {
         /// <summary>
         /// Setea el valor de la propiedad Valor del Numero.
         /// </summary>
-        public string SetValor {
+        private string SetValor {
             set { this.valor = this.ValidarNumero(value); }
         }
 

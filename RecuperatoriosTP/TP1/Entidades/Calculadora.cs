@@ -12,14 +12,14 @@ namespace Entidades {
         /// </summary>
         /// <param name="operador">El operador en tipo de dato String</param>
         /// <returns>Devuelve '+' si no es ningun operador mamematico basico, si no devolvera el correspondiente.</returns>
-        static private string ValidarOperador(string operador) {
+        static private string ValidarOperador(char operador) {
 
-            if (operador != "+" && operador != "-" && operador != "*" && operador != "/") {
-                operador = "+";
+            if (operador != '+' && operador != '-' && operador != '*' && operador != '/') {
+                operador = '+';
 
             }
 
-            return operador;
+            return operador.ToString();
         }
 
         /// <summary>
@@ -29,11 +29,11 @@ namespace Entidades {
         /// <param name="num2">Un objeto Numero</param>
         /// <param name="operador">Un operador en tipo de dato String</param>
         /// <returns></returns>
-        static public double Operar(Numero num1, Numero num2, string operador) {
+        static public double Operar(Numero num1, Numero num2, char operador) {
             
             double resultadoOp = 0;
-            operador = Calculadora.ValidarOperador(operador);
-            switch (operador) {
+            string strOperador = Calculadora.ValidarOperador(operador);
+            switch (strOperador) {
                 case "+": { resultadoOp = num1 + num2; };break;
                 case "-": { resultadoOp = num1 - num2; }; break;
                 case "*": { resultadoOp = num1 * num2; }; break;

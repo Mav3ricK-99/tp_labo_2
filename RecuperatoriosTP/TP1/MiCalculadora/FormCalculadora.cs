@@ -15,9 +15,17 @@ namespace MiCalculadora {
         public FormCalculadora() {
             InitializeComponent();
         }
+        private void FormCalculadora_Load(object sender, EventArgs e)
+        {
+            Limpiar();
+        }
 
         private void btnLimpiar_Click(object sender, EventArgs e) {
 
+            Limpiar();   
+        }
+        private void Limpiar()
+        {
             this.lblResultado.Text = "";
             this.cmboxOperador.Text = "";
             this.txtNum1.Text = "";
@@ -29,7 +37,7 @@ namespace MiCalculadora {
             Numero num1 = new Numero(this.txtNum1.Text);
             Numero num2 = new Numero(this.txtNum2.Text);
 
-            this.lblResultado.Text = FormCalculadora.Operar(num1, num2, this.cmboxOperador.Text).ToString();
+            this.lblResultado.Text = FormCalculadora.Operar(num1, num2, this.cmboxOperador.Text[0]).ToString();
         }
 
         private void btnCerrar_Click(object sender, EventArgs e) {
@@ -51,9 +59,15 @@ namespace MiCalculadora {
                 this.lblResultado.Text = numResultado.BinarioDecimal(this.lblResultado.Text);
             }
         }
-        private static double Operar(Numero num1, Numero num2, string operador) {
+        private static double Operar(Numero num1, Numero num2, char operador) {
 
             return Calculadora.Operar(num1, num2, operador);
+        }
+
+        private void FormCalculadora_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            DialogResult res = MessageBox.Show("¿Seguro de querer salir?", "Salir", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+            e.Cancel = (res == DialogResult.No);
         }
     }
 }

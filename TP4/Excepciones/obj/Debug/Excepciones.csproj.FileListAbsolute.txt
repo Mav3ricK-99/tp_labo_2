@@ -1,6 +1,0 @@
-C:\Users\feder\source\repos\TestConsola\Excepciones\bin\Debug\Excepciones.dll
-C:\Users\feder\source\repos\TestConsola\Excepciones\bin\Debug\Excepciones.pdb
-C:\Users\feder\source\repos\TestConsola\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
-C:\Users\feder\source\repos\TestConsola\Excepciones\obj\Debug\Excepciones.dll
-C:\Users\feder\source\repos\TestConsola\Excepciones\obj\Debug\Excepciones.pdb
-C:\Users\feder\source\repos\TestConsola\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
