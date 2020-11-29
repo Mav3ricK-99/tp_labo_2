@@ -30,3 +30,19 @@ C:\Users\feder\Desktop\Programacion\utn\2ndo cuatri\TEPES\tp_labo_2\TP3\ConsolaT
 C:\Users\feder\Desktop\Programacion\utn\2ndo cuatri\TEPES\tp_labo_2\TP3\ConsolaTP3\obj\Debug\ConsolaTP3.csproj.CopyComplete
 C:\Users\feder\Desktop\Programacion\utn\2ndo cuatri\TEPES\tp_labo_2\TP3\ConsolaTP3\obj\Debug\ConsolaTP3.exe
 C:\Users\feder\Desktop\Programacion\utn\2ndo cuatri\TEPES\tp_labo_2\TP3\ConsolaTP3\obj\Debug\ConsolaTP3.pdb
+C:\Users\feder\Desktop\recu tps\tp_labo_2\RecuperatoriosTP\TP3\ConsolaTP3\bin\Debug\ConsolaTP3.exe.config
+C:\Users\feder\Desktop\recu tps\tp_labo_2\RecuperatoriosTP\TP3\ConsolaTP3\bin\Debug\ConsolaTP3.exe
+C:\Users\feder\Desktop\recu tps\tp_labo_2\RecuperatoriosTP\TP3\ConsolaTP3\bin\Debug\ConsolaTP3.pdb
+C:\Users\feder\Desktop\recu tps\tp_labo_2\RecuperatoriosTP\TP3\ConsolaTP3\bin\Debug\Clases Abstractas.dll
+C:\Users\feder\Desktop\recu tps\tp_labo_2\RecuperatoriosTP\TP3\ConsolaTP3\bin\Debug\Clases Instanciables.dll
+C:\Users\feder\Desktop\recu tps\tp_labo_2\RecuperatoriosTP\TP3\ConsolaTP3\bin\Debug\Excepciones.dll
+C:\Users\feder\Desktop\recu tps\tp_labo_2\RecuperatoriosTP\TP3\ConsolaTP3\bin\Debug\Archivos.dll
+C:\Users\feder\Desktop\recu tps\tp_labo_2\RecuperatoriosTP\TP3\ConsolaTP3\bin\Debug\Clases Abstractas.pdb
+C:\Users\feder\Desktop\recu tps\tp_labo_2\RecuperatoriosTP\TP3\ConsolaTP3\bin\Debug\Clases Instanciables.pdb
+C:\Users\feder\Desktop\recu tps\tp_labo_2\RecuperatoriosTP\TP3\ConsolaTP3\bin\Debug\Excepciones.pdb
+C:\Users\feder\Desktop\recu tps\tp_labo_2\RecuperatoriosTP\TP3\ConsolaTP3\bin\Debug\Archivos.pdb
+C:\Users\feder\Desktop\recu tps\tp_labo_2\RecuperatoriosTP\TP3\ConsolaTP3\obj\Debug\ConsolaTP3.csprojAssemblyReference.cache
+C:\Users\feder\Desktop\recu tps\tp_labo_2\RecuperatoriosTP\TP3\ConsolaTP3\obj\Debug\ConsolaTP3.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\recu tps\tp_labo_2\RecuperatoriosTP\TP3\ConsolaTP3\obj\Debug\ConsolaTP3.csproj.CopyComplete
+C:\Users\feder\Desktop\recu tps\tp_labo_2\RecuperatoriosTP\TP3\ConsolaTP3\obj\Debug\ConsolaTP3.exe
+C:\Users\feder\Desktop\recu tps\tp_labo_2\RecuperatoriosTP\TP3\ConsolaTP3\obj\Debug\ConsolaTP3.pdb

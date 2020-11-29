@@ -16,3 +16,12 @@ C:\Users\feder\Desktop\Programacion\utn\2ndo cuatri\TEPES\tp_labo_2\TP3\Archivos
 C:\Users\feder\Desktop\Programacion\utn\2ndo cuatri\TEPES\tp_labo_2\TP3\Archivos\obj\Debug\netstandard2.0\Archivos.csproj.CoreCompileInputs.cache
 C:\Users\feder\Desktop\Programacion\utn\2ndo cuatri\TEPES\tp_labo_2\TP3\Archivos\obj\Debug\netstandard2.0\Archivos.dll
 C:\Users\feder\Desktop\Programacion\utn\2ndo cuatri\TEPES\tp_labo_2\TP3\Archivos\obj\Debug\netstandard2.0\Archivos.pdb
+C:\Users\feder\Desktop\recu tps\tp_labo_2\RecuperatoriosTP\TP3\Archivos\bin\Debug\netstandard2.0\Archivos.deps.json
+C:\Users\feder\Desktop\recu tps\tp_labo_2\RecuperatoriosTP\TP3\Archivos\bin\Debug\netstandard2.0\Archivos.dll
+C:\Users\feder\Desktop\recu tps\tp_labo_2\RecuperatoriosTP\TP3\Archivos\bin\Debug\netstandard2.0\Archivos.pdb
+C:\Users\feder\Desktop\recu tps\tp_labo_2\RecuperatoriosTP\TP3\Archivos\obj\Debug\netstandard2.0\Archivos.csprojAssemblyReference.cache
+C:\Users\feder\Desktop\recu tps\tp_labo_2\RecuperatoriosTP\TP3\Archivos\obj\Debug\netstandard2.0\Archivos.AssemblyInfoInputs.cache
+C:\Users\feder\Desktop\recu tps\tp_labo_2\RecuperatoriosTP\TP3\Archivos\obj\Debug\netstandard2.0\Archivos.AssemblyInfo.cs
+C:\Users\feder\Desktop\recu tps\tp_labo_2\RecuperatoriosTP\TP3\Archivos\obj\Debug\netstandard2.0\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\recu tps\tp_labo_2\RecuperatoriosTP\TP3\Archivos\obj\Debug\netstandard2.0\Archivos.dll
+C:\Users\feder\Desktop\recu tps\tp_labo_2\RecuperatoriosTP\TP3\Archivos\obj\Debug\netstandard2.0\Archivos.pdb

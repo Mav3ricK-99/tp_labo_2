@@ -20,18 +20,29 @@ namespace EntidadesAbstractas
         protected ENacionalidad nacionalidadPersona;
         protected int dniPersona;
 
-        public string NombrePersona { 
+        public string NombrePersona {
             get => nombrePersona;
             set { nombrePersona = this.ValidarNombreApellido(value); }
-            }
-        public string ApellidoPersona { 
+        }
+        public string ApellidoPersona {
             get => apellidoPersona;
             set { apellidoPersona = this.ValidarNombreApellido(value); }
         }
         public ENacionalidad NacionalidadPersona { get => nacionalidadPersona; set => nacionalidadPersona = value; }
-        public int DniPersona { 
+        public int DniPersona {
             get => dniPersona;
-            set { dniPersona = this.ValidarDNI(this.nacionalidadPersona, value); } }
+            set
+            {
+                try
+                {
+                    dniPersona = this.ValidarDNI(this.nacionalidadPersona, value);
+                }
+                catch (DniInvalidoException e)
+                {
+                    throw new DniInvalidoException(e.Message, e.InnerException);
+                }
+            }
+        }
         public string StringToDNI
         {
             set

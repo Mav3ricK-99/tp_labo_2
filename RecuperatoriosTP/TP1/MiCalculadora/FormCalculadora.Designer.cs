@@ -122,13 +122,16 @@
             // 
             // lblResultado
             // 
+            this.lblResultado.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.lblResultado.AutoSize = true;
             this.lblResultado.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblResultado.Location = new System.Drawing.Point(258, 9);
+            this.lblResultado.Location = new System.Drawing.Point(242, 9);
             this.lblResultado.Name = "lblResultado";
             this.lblResultado.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.lblResultado.Size = new System.Drawing.Size(37, 29);
-            this.lblResultado.TabIndex = 5;
+            this.lblResultado.TabIndex = 1;
             this.lblResultado.Text = "    ";
             this.lblResultado.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 

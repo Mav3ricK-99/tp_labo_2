@@ -32,12 +32,15 @@ namespace MiCalculadora {
             this.txtNum2.Text = "";
         }
 
-        private void btnOperar_Click(object sender, EventArgs e) {
+        private void btnOperar_Click(object sender, EventArgs e)
+        {
 
-            Numero num1 = new Numero(this.txtNum1.Text);
-            Numero num2 = new Numero(this.txtNum2.Text);
-
-            this.lblResultado.Text = FormCalculadora.Operar(num1, num2, this.cmboxOperador.Text[0]).ToString();
+            if (this.txtNum1.Text != string.Empty && this.txtNum2.Text != string.Empty && this.cmboxOperador.Text != string.Empty)
+            {
+                Numero num1 = new Numero(this.txtNum1.Text);
+                Numero num2 = new Numero(this.txtNum2.Text);
+                this.lblResultado.Text = FormCalculadora.Operar(num1, num2, this.cmboxOperador.Text[0]).ToString();
+            }
         }
 
         private void btnCerrar_Click(object sender, EventArgs e) {
