@@ -6,7 +6,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace PruebaPersona
 {
     [TestClass]
-    public class ExcepcionesUniversitario
+    public class PruebasUniversidad
     {
         [TestMethod]
         [ExpectedException(typeof(AlumnoRepetidoException))]

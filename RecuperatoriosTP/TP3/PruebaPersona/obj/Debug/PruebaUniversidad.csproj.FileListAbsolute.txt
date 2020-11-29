@@ -48,3 +48,28 @@ C:\Users\feder\Desktop\Programacion\utn\2ndo cuatri\TEPES\tp_labo_2\TP3\PruebaPe
 C:\Users\feder\Desktop\Programacion\utn\2ndo cuatri\TEPES\tp_labo_2\TP3\PruebaPersona\obj\Debug\PruebaUniversidad.csproj.CopyComplete
 C:\Users\feder\Desktop\Programacion\utn\2ndo cuatri\TEPES\tp_labo_2\TP3\PruebaPersona\obj\Debug\PruebaPersona.dll
 C:\Users\feder\Desktop\Programacion\utn\2ndo cuatri\TEPES\tp_labo_2\TP3\PruebaPersona\obj\Debug\PruebaPersona.pdb
+C:\Users\feder\Desktop\recu tps\tp_labo_2\RecuperatoriosTP\TP3\PruebaPersona\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\feder\Desktop\recu tps\tp_labo_2\RecuperatoriosTP\TP3\PruebaPersona\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\feder\Desktop\recu tps\tp_labo_2\RecuperatoriosTP\TP3\PruebaPersona\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\feder\Desktop\recu tps\tp_labo_2\RecuperatoriosTP\TP3\PruebaPersona\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\feder\Desktop\recu tps\tp_labo_2\RecuperatoriosTP\TP3\PruebaPersona\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\feder\Desktop\recu tps\tp_labo_2\RecuperatoriosTP\TP3\PruebaPersona\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\feder\Desktop\recu tps\tp_labo_2\RecuperatoriosTP\TP3\PruebaPersona\bin\Debug\PruebaPersona.dll
+C:\Users\feder\Desktop\recu tps\tp_labo_2\RecuperatoriosTP\TP3\PruebaPersona\bin\Debug\PruebaPersona.pdb
+C:\Users\feder\Desktop\recu tps\tp_labo_2\RecuperatoriosTP\TP3\PruebaPersona\bin\Debug\Clases Abstractas.dll
+C:\Users\feder\Desktop\recu tps\tp_labo_2\RecuperatoriosTP\TP3\PruebaPersona\bin\Debug\Clases Instanciables.dll
+C:\Users\feder\Desktop\recu tps\tp_labo_2\RecuperatoriosTP\TP3\PruebaPersona\bin\Debug\Excepciones.dll
+C:\Users\feder\Desktop\recu tps\tp_labo_2\RecuperatoriosTP\TP3\PruebaPersona\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\feder\Desktop\recu tps\tp_labo_2\RecuperatoriosTP\TP3\PruebaPersona\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\feder\Desktop\recu tps\tp_labo_2\RecuperatoriosTP\TP3\PruebaPersona\bin\Debug\Archivos.dll
+C:\Users\feder\Desktop\recu tps\tp_labo_2\RecuperatoriosTP\TP3\PruebaPersona\bin\Debug\Clases Abstractas.pdb
+C:\Users\feder\Desktop\recu tps\tp_labo_2\RecuperatoriosTP\TP3\PruebaPersona\bin\Debug\Clases Instanciables.pdb
+C:\Users\feder\Desktop\recu tps\tp_labo_2\RecuperatoriosTP\TP3\PruebaPersona\bin\Debug\Excepciones.pdb
+C:\Users\feder\Desktop\recu tps\tp_labo_2\RecuperatoriosTP\TP3\PruebaPersona\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\feder\Desktop\recu tps\tp_labo_2\RecuperatoriosTP\TP3\PruebaPersona\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\feder\Desktop\recu tps\tp_labo_2\RecuperatoriosTP\TP3\PruebaPersona\bin\Debug\Archivos.pdb
+C:\Users\feder\Desktop\recu tps\tp_labo_2\RecuperatoriosTP\TP3\PruebaPersona\obj\Debug\PruebaUniversidad.csprojAssemblyReference.cache
+C:\Users\feder\Desktop\recu tps\tp_labo_2\RecuperatoriosTP\TP3\PruebaPersona\obj\Debug\PruebaUniversidad.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\recu tps\tp_labo_2\RecuperatoriosTP\TP3\PruebaPersona\obj\Debug\PruebaUniversidad.csproj.CopyComplete
+C:\Users\feder\Desktop\recu tps\tp_labo_2\RecuperatoriosTP\TP3\PruebaPersona\obj\Debug\PruebaPersona.dll
+C:\Users\feder\Desktop\recu tps\tp_labo_2\RecuperatoriosTP\TP3\PruebaPersona\obj\Debug\PruebaPersona.pdb

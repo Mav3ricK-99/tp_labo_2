@@ -17,3 +17,22 @@ Clase que toma: Laboratorio
 
 <------------------------------------------------------>
 
+JORNADA:
+Clase de Laboratorio POR Nombre completo: Lopez, Juan
+Nacionalidad: Argentino
+Legajo: 1
+Clases del dia
+Laboratorio
+Legislacion
+
+
+ALUMNOS: 
+Nombre completo: Suarez, Joaquin
+Nacionalidad: Extranjero
+Legajo: 7
+Estado de cuenta: AlDia
+Clase que toma: Laboratorio
+
+
+<------------------------------------------------------>
+
